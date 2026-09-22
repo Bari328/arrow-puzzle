@@ -1,0 +1,30 @@
+ .gitignore                       |  21 [31m--[m
+ README.md                        | 188 [32m+[m[31m-----------[m
+ docs/实验报告.md                 | 567 [31m-----------------------------------[m
+ game/__init__.py                 |  14 [31m-[m
+ game/animation.py                |  86 [31m------[m
+ game/app.py                      | 410 [31m-------------------------[m
+ game/audio.py                    | 222 [31m--------------[m
+ game/board.py                    | 210 [31m-------------[m
+ game/config.py                   | 133 [31m--------[m
+ game/effects.py                  | 165 [31m----------[m
+ game/levels.py                   |  88 [31m------[m
+ game/menu_scene.py               | 195 [31m------------[m
+ game/renderer.py                 | 633 [31m---------------------------------------[m
+ game/ui.py                       |  76 [31m-----[m
+ main.py                          |  23 [31m--[m
+ requirements.txt                 |   1 [31m-[m
+ screenshots/01_menu.png          | Bin [31m106758[m -> [32m0[m bytes
+ screenshots/02_play_blocked.png  | Bin [31m51578[m -> [32m0[m bytes
+ screenshots/03_play_free.png     | Bin [31m51574[m -> [32m0[m bytes
+ screenshots/04_effects.png       | Bin [31m55941[m -> [32m0[m bytes
+ screenshots/05_level_clear.png   | Bin [31m58387[m -> [32m0[m bytes
+ screenshots/06_game_over.png     | Bin [31m77329[m -> [32m0[m bytes
+ screenshots/07_fail_feedback.png | Bin [31m79165[m -> [32m0[m bytes
+ tests/check_layout.py            | 190 [31m------------[m
+ tests/check_logic.py             | 289 [31m------------------[m
+ tests/check_render.py            | 319 [31m--------------------[m
+ tests/make_shots.py              | 101 [31m-------[m
+ tests/run_all.py                 |  48 [31m---[m
+ tests/smoke_window.py            |  42 [31m---[m
+ 29 files changed, 2 insertions(+), 4019 deletions(-)
